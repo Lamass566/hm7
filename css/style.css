@@ -2,7 +2,7 @@
 
 body{
     margin: auto 0;
-    background-image: url("/images/Фон 1.png");
+    background-image: url("../images/Фон 1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
