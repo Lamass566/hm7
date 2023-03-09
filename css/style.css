@@ -330,7 +330,7 @@ padding-top: 7px;
         display: inline-block;
     }
     #highload0:checked ~ label::before {
-        content: url('/images/Vector 122.svg');    
+        content: url('../images/Vector 122.svg');    
 }
 
 .link_terms{
